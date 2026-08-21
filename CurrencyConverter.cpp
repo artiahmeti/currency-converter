@@ -79,7 +79,7 @@ void convert() {
          << exchangeRate << ' ' << to << "\n\n";
 }
 
-}  // namespace
+}  
 
 int main() {
     cout << "========================================\n"
